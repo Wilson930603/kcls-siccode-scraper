@@ -1,0 +1,3 @@
+Scrapy~=2.8.0
+requests==2.17.3
+2captcha-python>=1.2.1
